@@ -1,0 +1,5 @@
+unreachable.host.com
+# Add more hostnames, one per line
+# Example:
+# anotherhost.vectordev.com.mx
+# thirdhost.example.com
