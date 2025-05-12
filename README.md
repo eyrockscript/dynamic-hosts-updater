@@ -45,7 +45,7 @@ A Bash script to automatically update the `/etc/hosts` file with dynamic IP addr
      ```
      unreachable.host.com
      # Add more hostnames here
-     # anotherhost.vectordev.com.mx
+     # anotherhost.unreachabledev.com.mx
      ```
    - Set permissions:
      ```bash
@@ -161,7 +161,7 @@ Feel free to open issues or submit pull requests to improve the script or add fe
      ```
      unreachable.host.com
      # Add more hostnames here
-     # anotherhost.vectordev.com.mx
+     # anotherhost.unreachabledev.com.mx
      ```
    - Set permissions:
      ```bash
